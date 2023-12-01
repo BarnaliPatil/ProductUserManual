@@ -29,3 +29,5 @@ Alarm condition on Sensor break, Over range or Under range is programmable indiv
 Programmable Power On alarm delay timer is provided to inhibit alarm operation for the duration of the delay time.
 
 All programmed values are stored permanently in non-volatile memory. Its intelligent program lock facility prevents the set parameters from being tampered. 
+
+## FRONT PANEL INDICATION ##
