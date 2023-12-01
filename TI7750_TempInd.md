@@ -36,8 +36,11 @@ All programmed values are stored permanently in non-volatile memory. Its intelli
                                                   Fig. 1
 
 2.1 Display : Process Value, 4-digit 7segment Red LED
+
 2.2  13.0 x 8.0mm transparent pocket for legend insertion
+
 2.3   ALARM LEDs
       OP1:  ALARM 1, red color
       OP2:  ALARM 2, red color
+      
 2.4  Key Switches
