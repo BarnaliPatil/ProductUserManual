@@ -59,6 +59,14 @@ The indicator can accept the following inputs:-
 | TYPE | RANGE |
 | --------------------------- | ---------------------------- |
 | DC mA | 4 to 20 mA |
+| DC Volts | 1 to 5V |
+| DC mV | 15 to 75 mV|
+| RTD | PT100  (Alpha = 0.00385) in  1 Deg resolution |
+| Thermocouples | J, K and T |
+Table 1
+
+
+
 
 
 
