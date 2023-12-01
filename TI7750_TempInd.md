@@ -44,3 +44,7 @@ All programmed values are stored permanently in non-volatile memory. Its intelli
 * OP2:  ALARM 2, red color
       
 2.4  Key Switches
+
+## KEY SWITCHES ##
+
+The meaning of the symbols on the key switches are listed in figure 2 below,
