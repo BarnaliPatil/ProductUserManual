@@ -33,3 +33,4 @@ All programmed values are stored permanently in non-volatile memory. Its intelli
 ## FRONT PANEL INDICATION ##
 
 ![TI7750](https://github.com/BarnaliPatil/ProductUserManual/assets/152055230/da9f27ee-90be-4bee-81f0-efe5249839a1)
+                                                  Fig. 1
