@@ -76,6 +76,9 @@ The five basic input types are to be selected from the keyboard and appropriate 
 
 | CODE | INPUT TYPE | INPUT RANGE |
 | -------------------- | -------------------- | ---------------------- | 
+| 00 | 4 to 20 mA Normal Scale | -1999 to +9999 |
+
+
 
 
 
