@@ -61,3 +61,4 @@ The indicator can accept the following inputs:-
 | DC mA | 4 to 20 mA |
 
 
+
