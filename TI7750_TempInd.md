@@ -1,6 +1,6 @@
 # Product Manual for Temperature Indicator with Alarm - TI7750 #
 -----------------------------------------------------------------
-## Contents ##
+### Contents ###
 
 | Sr. No. | Topic |
 | ----------------------- | ------------------------- | 
@@ -14,3 +14,4 @@
 | 8 | Self-Test Error Codes |
 | 9 | Indicator Specifications |
 
+## INTRODUCTION ##
