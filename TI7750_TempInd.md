@@ -4,4 +4,5 @@
 
 | 1 | Introduction |
 | ----------------------- | ------------------------- | 
+| 2 | Front Panel Indication |
 
