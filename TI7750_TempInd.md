@@ -49,5 +49,5 @@ Fig. 1
 
 The meaning of the symbols on the key switches are listed in figure 2 below,
 
-
+![KeySwitches](https://github.com/BarnaliPatil/ProductUserManual/assets/152055230/272574bd-a310-439c-ba6b-5e975b7c016f)
 Fig.2
