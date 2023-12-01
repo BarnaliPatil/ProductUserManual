@@ -74,6 +74,9 @@ The five basic input types are to be selected from the keyboard and appropriate 
 
 ## INPUT SELECTION CODE ##
 
+| CODE | INPUT TYPE | INPUT RANGE |
+| -------------------- | -------------------- | ---------------------- | 
+
 
 
 
