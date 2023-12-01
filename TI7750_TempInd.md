@@ -23,3 +23,9 @@ The TI 7750 is an advanced microcontroller based single channel Process / Temper
 
 
 Basic input types are selected by on card jumpers and by selecting from the keyboard. Optional single or dual alarm output is provided, alarm type and value are programmable from the front panel keyboard.
+
+
+Alarm condition on Sensor break, Over range or Under range is programmable individually for each alarm.
+Programmable Power On alarm delay timer is provided to inhibit alarm operation for the duration of the delay time.
+
+All programmed values are stored permanently in non-volatile memory. Its intelligent program lock facility prevents the set parameters from being tampered. 
