@@ -15,3 +15,5 @@
 | 9 | Indicator Specifications |
 
 ## INTRODUCTION ##
+
+In process control application, sensors are used to measure physical variables such as Level, Temperature, Flow, Pressure, Speed, and Position. Temperature indicators are process control installation instruments that can process signals from temperature sensors and show them on the display.
