@@ -66,6 +66,15 @@ The indicator can accept the following inputs:-
 
 Table 1
 
+The linear inputs mA ,mV and Volts can be programmed for normal  ZERO and SPAN  or center zero scale or for user 10 segment curve entered from the keyboard. 
+
+The five basic input types are to be selected from the keyboard and appropriate jumpers set on the indicator card.
+
+**WARNING !!   Always check the set internal jumpers before using a input , as wrong jumper settings can damage the input.**
+
+## INPUT SELECTION CODE ##
+
+
 
 
 
