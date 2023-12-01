@@ -33,7 +33,7 @@ All programmed values are stored permanently in non-volatile memory. Its intelli
 ## FRONT PANEL INDICATION ##
 
 ![TI7750](https://github.com/BarnaliPatil/ProductUserManual/assets/152055230/da9f27ee-90be-4bee-81f0-efe5249839a1)
-                                                  Fig. 1
+Fig. 1
 
 2.1 Display : Process Value, 4-digit 7segment Red LED
 
@@ -48,3 +48,6 @@ All programmed values are stored permanently in non-volatile memory. Its intelli
 ## KEY SWITCHES ##
 
 The meaning of the symbols on the key switches are listed in figure 2 below,
+
+![KeySwitches](https://github.com/BarnaliPatil/ProductUserManual/assets/152055230/34751a9b-ce98-4e86-b536-4ace606fec43)
+Fig.2
