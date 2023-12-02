@@ -93,6 +93,7 @@ Table 2 - Input Selection Code
 **NOTE:** For linear inputs 00 to 22 decimal point can be positioned after any digit as required by setting the DP parameter.
 
 **For input JUMPER selection refer to table at end of the manual.**
+
 **NORMAL SCALE :** The scale is linear starting at value set for ‘DSPL’ and ending at value set for ‘DSPH’
 **CENTRE ZERO SCALE:**  The scale extends on both sides from – ‘DSPH’ to + ‘DSPH’ with ‘DSPL’ at the center.
 
