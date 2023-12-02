@@ -180,7 +180,7 @@ List of parameters that could be programmed in the USER menu are:
 
 The indicator is provided with universal AC power supply, any AC supply within the range 90 to 265 V AC can be connected to the power input terminals.
 Connect the power supply to the terminal marked ‘L’ Live & ‘N’ Neutral 
-**WARNING !!  NEVER  OPEN THE INSTRUMENT COVER WITH THE AC POWER CONNECTED .THIS MAY  LEAD TO  ELECTRICAL SHOCK** 
+**WARNING !!  NEVER  OPEN THE INSTRUMENT COVER WITH THE AC POWER CONNECTED. THIS MAY  LEAD TO  ELECTRICAL SHOCK** 
 
 # SELF TEST ERROR CODES #
 
@@ -209,6 +209,7 @@ from 0.2-2.5sq.mm |
 | Input Impedance | mA input  < 25 Ohms , Voltage > 100 K  , mV / TC > 1Meg |
 | Display | 4 digit 14mm 7seg. Red LED, 
 Range –1999 to 9999 | 
+
 
 
 
