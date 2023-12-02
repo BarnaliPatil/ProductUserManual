@@ -103,8 +103,9 @@ The indicator is provided with up to two optional programmable alarms, each alar
 
 Alarm LEDs are provided which will glow when the corresponding alarm is active.
 Following alarm options can be programmed in normal N/O contact output or reverse N/C contact output.
-# High alarm #
+### High alarm ###
 *OPTION 0*   High alarm , normal N/O contact output
+
 *OPTION 1*   High alarm , reverse N/C contact output
 
 
