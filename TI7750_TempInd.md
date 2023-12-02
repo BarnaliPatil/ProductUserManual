@@ -76,7 +76,18 @@ The five basic input types are to be selected from the keyboard and appropriate 
 
 | CODE | INPUT TYPE | INPUT RANGE |
 | -------------------- | -------------------- | ---------------------- | 
-| 00 | 4 to 20 mA Normal Scale | -1999 to +9999 |
+| 00 | 4 to 20 mA Normal scale | -1999 to +9999 |
+| 02 | 4 to 20 mA Centre zero scale | -1999 to +9999 |
+| 10 | 1 to 5 Volts Normal scale | -1999 to +9999 |
+| 12 | 1 to 5 Volts Centre zero scale | -1999 to +9999 |
+| 20 | 15 to 75 mV Normal scale | -1999 to +9999 |
+| 22 | 15 to 75 mV Centre zero scale | -1999 to +9999 |
+| 30 | RTD PT100, 1 Deg C resolution | -200 to +800 Deg C |
+| 40 | Thermocouple Type J | -200 to +1200 Deg C |
+| 41 | Thermocouple Type K | -200 to +1372 Deg C |
+| 42 | Thermocouple Type T | -200 to +400 Deg C|
+| 46 | Thermocouple Type S | -50 to +1768 Deg C |
+
 
 
 
