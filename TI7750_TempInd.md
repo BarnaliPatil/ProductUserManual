@@ -140,6 +140,25 @@ The indicator is provided with two menus for setpoint entry and configuration. T
 
 **SETUP MENU** – This is a password protected menu for configuring the indicator operating parameters.
 
+### PARAMETERS IN SETUP MENU ###
+
+List of parameters that could be programmed in the SETUP menu are:
+
+1. INPUT TYPE – ‘Ip’
+2. DISPLAY ZERO -  ‘dSPL’
+3. DISPLAY SPAN – ‘dSPh’
+4. DECIMAL POINT – ‘dP’
+5. SQUARE ROOT EXTRACTION – ‘Sq’
+6. ALARM 1 TYPE – ‘A1-t’
+7. SENSOR BREAK ALARM 1– ‘A1Sb’
+8. ALARM 2 TYPE – ‘A2-t’
+9. SENSOR BREAK  ALARM 2– ‘A2Sb’
+10. ALARM DELAY FROM POWER ON – ‘AdEL’
+11. SETUP PASSWORD – ‘SPAS’
+12. USER PASSWORD – ‘uPAS’
+13. USER MENU ON/OFF – uMEn’
+
+
 
 
 
