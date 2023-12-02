@@ -88,6 +88,15 @@ The five basic input types are to be selected from the keyboard and appropriate 
 | 42 | Thermocouple Type T | -200 to +400 Deg C|
 | 46 | Thermocouple Type S | -50 to +1768 Deg C |
 
+Table 2 - Input Selection Code
+
+**NOTE:** For linear inputs 00 to 22 decimal point can be positioned after any digit as required by setting the DP parameter.
+
+**For input JUMPER selection refer to table at end of the manual.**
+**NORMAL SCALE :** The scale is linear starting at value set for ‘DSPL’ and ending at value set for ‘DSPH’
+**CENTRE ZERO SCALE:**  The scale extends on both sides from – ‘DSPH’ to + ‘DSPH’ with ‘DSPL’ at the center.
+
+
 
 
 
