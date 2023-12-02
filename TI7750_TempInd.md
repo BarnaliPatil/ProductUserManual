@@ -119,6 +119,9 @@ On power on a self test is done and all LEDs and displays lights up for a few se
 
 #### LIST OF ITEMS DISPLAYED ON POWER ON SELF TEST ####
 
+| Sr. no. | Display | Description |
+| ------------- | ------------------| ---------------------------|
+
 
 
 
