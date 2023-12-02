@@ -209,8 +209,7 @@ Table 4 - Error codes list
 | Input Connection | Rugged Screw type terminal, suitable for wire size ranging 
 from 0.2-2.5sq.mm |
 | Input Impedance | mA input  < 25 Ohms , Voltage > 100 K  , mV / TC > 1Meg |
-| Display | 4 digit 14mm 7seg. Red LED, 
-Range –1999 to 9999 |
+| Display | 4 digit 14mm 7seg. Red LED, Range –1999 to 9999 |
 | Keyboard | Four tactile feedback membrane keys |
 | Power Supply | Universal SMPS 95 to 265V AC, 50Hz  or 110 V DC |
 | **Enclosure** |
@@ -219,6 +218,7 @@ Range –1999 to 9999 |
 | Panel Cut-out | 46(H) x 92(W)mm, Depth behind panel: 119mm |
 
 Table 5 - TI 7750 Specifications
+
 
 
 
