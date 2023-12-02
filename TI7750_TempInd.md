@@ -158,6 +158,17 @@ List of parameters that could be programmed in the SETUP menu are:
 12. USER PASSWORD – ‘uPAS’
 13. USER MENU ON/OFF – uMEn’
 
+### PARAMETERS IN USER MENU ###
+List of parameters that could be programmed in the USER menu are:
+
+1.	Alarm 1 settings (if provided) 
+* Set Value1 – SP1
+* Alarm 1 Hysteresis – hy-1
+
+2.	Alarm 2 settings (if provided)
+* Set Value2– SP2
+* Alarm 2 Hysteresis – hy-2
+  
 
 
 
