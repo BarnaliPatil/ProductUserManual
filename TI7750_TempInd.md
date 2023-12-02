@@ -1,4 +1,6 @@
 # Product Manual for Temperature Indicator with Alarm - TI7750 #
+
+*Iss 01 Rev 00*                                              
 -----------------------------------------------------------------
 ### Contents ###
 
@@ -211,8 +213,13 @@ from 0.2-2.5sq.mm |
 Range –1999 to 9999 |
 | Keyboard | Four tactile feedback membrane keys |
 | Power Supply | Universal SMPS 95 to 265V AC, 50Hz  or 110 V DC |
-| Enclosure 
-Mounting Type : | Flush on Panel |
+| **Enclosure** |
+| Mounting Type : | Flush on Panel |
+| External Dimension | 48(H) x 96(W) x 129(D) mm |
+| Panel Cut-out | 46(H) x 92(W)mm, Depth behind panel: 119mm |
+
+Table 5 - TI 7750 Specifications
+
 
 
 
