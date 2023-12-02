@@ -206,8 +206,7 @@ Table 4 - Error codes list
 | No. of Channels | One |
 | System | Advanced microcontroller based |
 | Input | Universal mA,mV ,Volts , RTD PT100 , TC As per type selected |
-| Input Connection | Rugged Screw type terminal, suitable for wire size ranging 
-from 0.2-2.5sq.mm |
+| Input Connection | Rugged Screw type terminal, suitable for wire size ranging from 0.2-2.5sq.mm |
 | Input Impedance | mA input  < 25 Ohms , Voltage > 100 K  , mV / TC > 1Meg |
 | Display | 4 digit 14mm 7seg. Red LED, Range –1999 to 9999 |
 | Keyboard | Four tactile feedback membrane keys |
