@@ -121,6 +121,9 @@ On power on a self test is done and all LEDs and displays lights up for a few se
 
 | Sr. no. | Display | Description |
 | ------------- | ------------------| ---------------------------|
+| 1. | TIXX | TI is the model and XX is the set input code |
+| 2. | Vxxu or VxxF | Where xx is the version number and ‘u’ for universal input or ‘F’ for fixed input |
+| 3. | ZZZZ | The set ZERO (DSPL) value for linear inputs (mA,mV & Volts only)  |
 
 
 
