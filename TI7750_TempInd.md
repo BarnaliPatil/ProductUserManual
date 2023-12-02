@@ -168,7 +168,15 @@ List of parameters that could be programmed in the USER menu are:
 2.	Alarm 2 settings (if provided)
 * Set Value2– SP2
 * Alarm 2 Hysteresis – hy-2
+
+# INSTALLATION # 
+
+* Check that there is no physical damage to the indicator during transportation.
+* Check that the indicator is properly installed in the panel and mounting clamps are properly tightened. 
+* Check the power line voltage to ensure that it is within the specified limits.
+* Ensure that all input terminal screw is properly tightened.
   
+
 
 
 
