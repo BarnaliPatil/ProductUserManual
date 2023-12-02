@@ -97,6 +97,15 @@ Table 2 - Input Selection Code
 **NORMAL SCALE :** The scale is linear starting at value set for ‘DSPL’ and ending at value set for ‘DSPH’
 **CENTRE ZERO SCALE:**  The scale extends on both sides from – ‘DSPH’ to + ‘DSPH’ with ‘DSPL’ at the center.
 
+## ALARM OPTIONS ##
+
+The indicator is provided with up to two optional programmable alarms, each alarm is provided with individual setpoint/setpoints and hysteresis.
+
+Alarm LEDs are provided which will glow when the corresponding alarm is active.
+Following alarm options can be programmed in normal N/O contact output or reverse N/C contact output.
+# High alarm #
+*OPTION 0*   High alarm , normal N/O contact output
+*OPTION 1*   High alarm , reverse N/C contact output
 
 
 
