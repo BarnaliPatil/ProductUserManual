@@ -175,7 +175,47 @@ List of parameters that could be programmed in the USER menu are:
 * Check that the indicator is properly installed in the panel and mounting clamps are properly tightened. 
 * Check the power line voltage to ensure that it is within the specified limits.
 * Ensure that all input terminal screw is properly tightened.
-  
+
+# POWER CONNECTION #
+
+The indicator is provided with universal AC power supply, any AC supply within the range 90 to 265 V AC can be connected to the power input terminals.
+Connect the power supply to the terminal marked ‘L’ Live & ‘N’ Neutral 
+**WARNING !!  NEVER  OPEN THE INSTRUMENT COVER WITH THE AC POWER CONNECTED .THIS MAY  LEAD TO  ELECTRICAL SHOCK** 
+
+# SELF TEST ERROR CODES #
+
+During power ON and while running, the systems perform certain self tests to ensure that the indicator does not display a false reading due to system hardware fault. In the process if a hardware fault is detected, the indicator stops normal operation and displays an Error Code.
+
+List of error codes and their meaning is given below: -
+
+| ERROR CODE | REMARKS |
+| ------------- | -------------------|
+| E1 | Unknown input type selected, select valid type |
+| E2 | Calibration error, recalibrate the selected input type |
+| E3 |  CJC error, recalibrate thermocouple ambient temperature or hardware failure |
+| E4 | ADC error, hardware failure  |
+
+Table 4 - Error codes list
+
+# INDICATOR SPECIFICATIONS #
+
+| Parameter | Explaination|
+| ------------------- | ------------------------------ |
+| No. of Channels | One |
+| System | Advanced microcontroller based |
+| Input | Universal mA,mV ,Volts , RTD PT100 , TC As per type selected |
+| Input Connection | Rugged Screw type terminal, suitable for wire size ranging 
+from 0.2-2.5sq.mm |
+| Input Impedance | mA input  < 25 Ohms , Voltage > 100 K  , mV / TC > 1Meg |
+| Display | 4 digit 14mm 7seg. Red LED, 
+Range –1999 to 9999 | 
+
+
+
+
+
+
+
 
 
 
