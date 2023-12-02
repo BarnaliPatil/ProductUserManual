@@ -124,7 +124,21 @@ On power on a self test is done and all LEDs and displays lights up for a few se
 | 1. | TIXX | TI is the model and XX is the set input code |
 | 2. | Vxxu or VxxF | Where xx is the version number and ‘u’ for universal input or ‘F’ for fixed input |
 | 3. | ZZZZ | The set ZERO (DSPL) value for linear inputs (mA,mV & Volts only)  |
+| 4. | ssss | The set SPAN (DSPH) value for linear inputs |
+| 5. | SQ | ‘Sq’ displayed if square root option enabled for linear inputs |
+| 6. | A1xx | If Alarm 1 is available , ‘xx’ indicates alarm 1 type | 
+| 7. | dddd | The power ON alarm delay time in seconds if other than 0 |
+| 8. | A2xx | If Alarm 2 is available , ‘xx’ indicates alarm 2 type |
 
+Table 3 - Power ON self test items
+
+## OPERATING MENU ##
+
+The indicator is provided with two menus for setpoint entry and configuration. These are as follows:-
+
+**USER MENU** – User menu for entering the alarm setpoints, may be password protected if required or disabled from setup menu.
+
+**SETUP MENU** – This is a password protected menu for configuring the indicator operating parameters.
 
 
 
