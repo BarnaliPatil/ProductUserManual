@@ -14,7 +14,7 @@
 | 8 | Self-Test Error Codes |
 | 9 | Indicator Specifications |
 ----------------------------------------------------------
-## INTRODUCTION ##
+# INTRODUCTION #
 
 In process control application, sensors are used to measure physical variables such as Level, Temperature, Flow, Pressure, Speed, and Position. Temperature indicators are process control installation instruments that can process signals from temperature sensors and show them on the display.
 
@@ -30,7 +30,7 @@ Programmable Power On alarm delay timer is provided to inhibit alarm operation f
 
 All programmed values are stored permanently in non-volatile memory. Its intelligent program lock facility prevents the set parameters from being tampered. 
 
-## FRONT PANEL INDICATION ##
+# FRONT PANEL INDICATION #
 
 ![TI7750](https://github.com/BarnaliPatil/ProductUserManual/assets/152055230/da9f27ee-90be-4bee-81f0-efe5249839a1)
 Fig. 1
@@ -45,14 +45,14 @@ Fig. 1
       
 2.4  Key Switches
 
-## KEY SWITCHES ##
+# KEY SWITCHES #
 
 The meaning of the symbols on the key switches are listed in figure 2 below,
 
 ![KeySwitches](https://github.com/BarnaliPatil/ProductUserManual/assets/152055230/272574bd-a310-439c-ba6b-5e975b7c016f)
 Fig.2
 
-## ANALOG INPUTS ##
+# ANALOG INPUTS #
 
 The indicator can accept the following inputs:-
 
@@ -72,7 +72,7 @@ The five basic input types are to be selected from the keyboard and appropriate 
 
 **WARNING !!   Always check the set internal jumpers before using a input , as wrong jumper settings can damage the input.**
 
-## INPUT SELECTION CODE ##
+# INPUT SELECTION CODE #
 
 | CODE | INPUT TYPE | INPUT RANGE |
 | -------------------- | -------------------- | ---------------------- | 
@@ -97,7 +97,7 @@ Table 2 - Input Selection Code
 **NORMAL SCALE :** The scale is linear starting at value set for ‘DSPL’ and ending at value set for ‘DSPH’
 **CENTRE ZERO SCALE:**  The scale extends on both sides from – ‘DSPH’ to + ‘DSPH’ with ‘DSPL’ at the center.
 
-## ALARM OPTIONS ##
+# ALARM OPTIONS #
 
 The indicator is provided with up to two optional programmable alarms, each alarm is provided with individual setpoint/setpoints and hysteresis.
 
@@ -208,7 +208,11 @@ Table 4 - Error codes list
 from 0.2-2.5sq.mm |
 | Input Impedance | mA input  < 25 Ohms , Voltage > 100 K  , mV / TC > 1Meg |
 | Display | 4 digit 14mm 7seg. Red LED, 
-Range –1999 to 9999 | 
+Range –1999 to 9999 |
+| Keyboard | Four tactile feedback membrane keys |
+| Power Supply | Universal SMPS 95 to 265V AC, 50Hz  or 110 V DC |
+| Enclosure * Mounting Type : | Flush on Panel |
+
 
 
 
