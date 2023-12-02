@@ -211,7 +211,9 @@ from 0.2-2.5sq.mm |
 Range –1999 to 9999 |
 | Keyboard | Four tactile feedback membrane keys |
 | Power Supply | Universal SMPS 95 to 265V AC, 50Hz  or 110 V DC |
-| Enclosure * Mounting Type : | Flush on Panel |
+| Enclosure 
+Mounting Type : | Flush on Panel |
+
 
 
 
